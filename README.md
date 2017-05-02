@@ -8,6 +8,14 @@ It is slightly simplified implementation of Kim's [Convolutional Neural Networks
 - Tensorflow > 0.12
 - Numpy
 
+## Achitecture
+
+- train.py
+  - data_help.py
+  - text_cnn.py  
+- eval.py
+  - data_help.py
+
 ## Training
 
 Print parameters:
